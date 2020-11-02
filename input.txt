@@ -1,0 +1,43 @@
+size 5
+turn_count 38
+entity 1 ACDEF 2x2 infected
+entity 2 BDFHC 4x5
+entity 3 CDHGF 5x5
+turn 1 2x3 4x5 5x4
+turn 2 3x3 4x4 5x3
+turn 3 3x4 4x3 5x2
+turn 4 4x4 4x3 5x1
+turn 5 4x4 4x3 5x1
+turn 6 4x4 4x3 5x1
+turn 7 4x4 4x3 5x1
+turn 8 4x4 4x3 5x1
+turn 9 4x4 4x3 5x1
+turn 10 4x4 4x3 5x1
+turn 11 4x4 4x3 5x1
+turn 12 4x4 4x3 5x1
+turn 13 4x4 4x3 5x1
+turn 14 4x4 4x3 5x1
+turn 15 4x4 4x3 5x1
+turn 16 4x4 4x3 5x1
+turn 17 4x4 4x3 5x1
+turn 18 4x4 4x3 5x1
+turn 19 4x4 4x3 5x1
+turn 20 4x4 4x3 5x1
+turn 21 4x4 4x3 5x1
+turn 22 4x4 4x3 5x1
+turn 23 4x4 4x3 5x1
+turn 24 4x4 4x3 5x1
+turn 25 4x4 4x3 5x1
+turn 26 4x4 4x3 5x1
+turn 27 4x4 4x3 5x1
+turn 28 4x4 4x3 5x1
+turn 29 4x4 4x3 5x1
+turn 30 4x4 4x3 5x1
+turn 31 4x4 4x3 5x1
+turn 32 4x4 4x3 5x1
+turn 33 4x4 4x3 5x1
+turn 34 4x4 4x3 5x1
+turn 35 4x4 4x3 5x1
+turn 36 4x4 4x3 5x1
+turn 37 4x4 4x3 5x1
+turn 38 4x4 4x3 5x1
